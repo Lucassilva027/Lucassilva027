@@ -12,7 +12,9 @@
 
 <p align="left">🌍 I'm based in Gravataí - RS<br>📚 I'm currently learning C#, .NET, React & Next.js<br>🎯 Currently: Building full-stack applications with React/TypeScript 
 and contributing to open-source
+  
 💼 Seeking: Remote software development internship (2026)
+
 🔨 Working on: Next.js dashboard, React components library, 
 and collaborative e-commerce project<br>🎲 Fun fact: I am also an enthusiast of Basketball, Philosophy and Anime</p>
 
