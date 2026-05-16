@@ -17,7 +17,7 @@
   🎯 Currently: Building full-stack applications with React/TypeScript 
 and contributing to open-source
   
-💼 Seeking: Remote software development internship (2026)
+💼 Seeking: Software development internship (2026)
 
 🔨 Working on: Next.js dashboard, React components library, 
 and collaborative e-commerce project
